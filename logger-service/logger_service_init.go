@@ -5,7 +5,7 @@ import (
 	"log"
 )
 
-func Run() {
+func Init() {
 	logger, err := NewLogger("logger-service/app.log", INFO, 10*1024) // 10 KB max file size
 	if err != nil {
 		log.Fatalf("failed to initialize logger: %v", err)
