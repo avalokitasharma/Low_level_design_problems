@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/avalokitasharma/lld/loggerservice"
+	loggerservice "github.com/avalokitasharma/lld/logger-service"
 )
 
 func main() {
