@@ -1,0 +1,5 @@
+[2025-06-27 17:31:56] [INFO] Application started
+[2025-06-27 17:31:56] [WARNING] A warning message
+[2025-06-27 17:31:56] [ERROR] An error occurred
+[2025-06-27 17:31:56] [DEBUG] This debug message should now be visible
+[2025-06-27 17:31:56] [INFO] Log with custom output sink
