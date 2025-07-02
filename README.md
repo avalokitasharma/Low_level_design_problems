@@ -1,6 +1,6 @@
 # Low_level_design_problems
 
-#### A collection of low level design and in-memory simulations of real-world products.
+#### Low level design and in-memory simulations of real-world products.
  - Outlines core functional requirements
  - Handles concurrency using Read/Write mutexes as needed.
  - Added extensibility for future features using abstractions, modular code and interfaces.
