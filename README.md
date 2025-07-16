@@ -10,6 +10,7 @@
  - Factory
  - Abstract
  - Strategy
+ - Adapter
  - Command
  - State
  - Chain of responsibility
