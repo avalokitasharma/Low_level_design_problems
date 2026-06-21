@@ -15,3 +15,5 @@ func (im *InventoryManager) removeProduct(p Product, qty int)  {}
 func (im *InventoryManager) incrQty(p Product, qty int)        {}
 func (im *InventoryManager) decrQty(p Product, qty int)        {}
 func (im *InventoryManager) restockProduct(p Product, qty int) {}
+
+// todo: Add locks
